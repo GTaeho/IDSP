@@ -327,6 +327,7 @@ void ATFCAlgorithm(int mData) {
 			if (ATFCn <= TrgOffLevel) {
 				REC = false;
 				isDetected = false;
+				EventDetection = false;
 				goto INCREASECOUNT;
 			} else {
 				isDetected = true;
