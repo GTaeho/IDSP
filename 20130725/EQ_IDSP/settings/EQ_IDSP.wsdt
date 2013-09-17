@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>EQ_IDSP/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>152</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1155</ColumnWidth1><ColumnWidth2>308</ColumnWidth2><ColumnWidth3>77</ColumnWidth3></Build>
+    <TerminalIO/><Find-in-Files><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows><ColumnWidth0>129</ColumnWidth0><ColumnWidth1>18</ColumnWidth1><ColumnWidth2>222</ColumnWidth2></Find-in-Files><Debug-Log><ColumnWidth0>18</ColumnWidth0><ColumnWidth1>275</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29718-8731</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>EQ_IDSP</ExpandedNode><ExpandedNode>EQ_IDSP/IDSP Lib</ExpandedNode><ExpandedNode>EQ_IDSP/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3><Tabs><Tab><Identity>TabID-29137-6665</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-1889-6766</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-25857-2795</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\main.c</Filename><XPos>0</XPos><YPos>149</YPos><SelStart>5555</SelStart><SelEnd>5555</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Libraries\EQ_IDSP_Lib\src\config.c</Filename><XPos>0</XPos><YPos>454</YPos><SelStart>14687</SelStart><SelEnd>14687</SelEnd></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Libraries\EQ_IDSP_Lib\inc\config.h</Filename><XPos>0</XPos><YPos>41</YPos><SelStart>1459</SelStart><SelEnd>1459</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\User\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>290</YPos><SelStart>8273</SelStart><SelEnd>8273</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01c58d78><key>iaridepm.enu1</key></Toolbar-01c58d78></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>1113</Bottom><Right>226</Right><x>-2</x><y>-2</y><xscreen>125</xscreen><yscreen>41</yscreen><sizeHorzCX>78125</sizeHorzCX><sizeHorzCY>35406</sizeHorzCY><sizeVertCX>142500</sizeVertCX><sizeVertCY>962867</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>1113</Bottom><Right>323</Right><x>-2</x><y>-2</y><xscreen>125</xscreen><yscreen>41</yscreen><sizeHorzCX>78125</sizeHorzCX><sizeHorzCY>35406</sizeHorzCY><sizeVertCX>203125</sizeVertCX><sizeVertCY>962867</sizeVertCY></Rect></Wnd3></Sizes></Row0></Right><Bottom><Row0><Sizes/></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
